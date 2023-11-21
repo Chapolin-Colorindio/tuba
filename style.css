@@ -1,0 +1,27 @@
+.cabeçalho{
+    background-color: black;
+    color: blue;
+    text-align: center;
+    font-size: x-large;
+}
+.j{
+    font-size: 65px;
+    text-align: center;
+    color: wheat;
+}
+.t{
+    width: 300%;
+   
+}
+.i{
+    display: flex;
+    font-size: 40px;
+    color: white;
+}
+.l{
+    font-size: 35px;
+    color: white;
+}
+.q{
+    background-color: green;
+}
